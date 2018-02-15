@@ -13,6 +13,7 @@ describe("Interval - overlapping", function () {
             expect(testedInterval.overlaps(interval)).toBeTruthy();
         });
     });
+	/*testestets*/
 
     [
         new Interval(8, 9),
